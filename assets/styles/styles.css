@@ -96,8 +96,7 @@ a:hover {
 
 .main {
     margin: auto;
-    width: 100%;
-    max-width: 47.5rem;
+    width: 47.5rem;
 }
 
 .content__hello {
