@@ -80,9 +80,10 @@ meter {
 
 
 body {
+    word-break: break-word;
+    overflow-wrap: break-word;
     font-family: 'Roboto', sans-serif;
     color: black;
-    hyphens: auto;
 }
 
 .content__social__contacts {
