@@ -84,19 +84,7 @@ body {
     color: black;
 }
 
-a {
-    font-family: 'Roboto', sans-serif;
-    color: black;
-    font-weight: 600;
-}
-
-.standard-font-link {
-    font-weight: 400;
-}
-
 .content__social__contacts {
-    font-family: 'Roboto', sans-serif;
-    color: black;
     font-weight: 600;
     display: block;
 }
@@ -147,6 +135,7 @@ a:hover {
 
 }
 .content__social-item {
+    font-weight: 600;
     display: flex;
     align-items: center;
 }
