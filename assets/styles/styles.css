@@ -153,6 +153,11 @@ a:hover {
     text-transform: uppercase;
 }
 
+.content__main {
+    width: inherit;
+    word-wrap: break-word
+}
+
 .content__main-item {
     display: flex;
     line-height: 1.8rem;
