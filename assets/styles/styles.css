@@ -82,6 +82,7 @@ meter {
 body {
     font-family: 'Roboto', sans-serif;
     color: black;
+    hyphens: auto;
 }
 
 .content__social__contacts {
@@ -151,11 +152,6 @@ a:hover {
     font-size: 1.4rem;
     line-height: 4rem;
     text-transform: uppercase;
-}
-
-.content__main {
-    width: inherit;
-    word-wrap: break-word
 }
 
 .content__main-item {
